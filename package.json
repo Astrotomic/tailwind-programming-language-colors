@@ -1,0 +1,19 @@
+{
+    "name": "tailwind-programming-language-colors",
+    "version": "0.0.1",
+    "description": "Tailwind plugin adding programming language colours.",
+    "main": "index.js",
+    "author": "Astrotomic",
+    "license": "MIT",
+    "keywords": [
+        "tailwindcss",
+        "tailwindcss-plugin",
+        "language-colours"
+    ],
+    "bugs": {
+        "url": "https://github.com/Astrotomic/tailwind-programming-language-colors/issues"
+    },
+    "devDependencies": {
+        "tailwindcss": "^2.0.0"
+    }
+}
